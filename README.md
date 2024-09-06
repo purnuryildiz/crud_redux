@@ -1,9 +1,27 @@
-# React + Vite
+<h1>REDUX CRUD PROJECT</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>This project is a "To-Do List" application built with React and Redux. It allows users to manage their tasks by adding, updating, and deleting them while utilizing Redux for state management.</p>
 
-Currently, two official plugins are available:
+<h2>Features</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# crud_redux
+<list>
+
+- Add New Task: Add new tasks via a simple form.
+
+- Update Task: Edit tasks using a modal component for easy modifications.
+
+- Delete Task: Remove tasks with a confirmation prompt to prevent accidental deletions.
+
+- Toggle Task Status: Mark tasks as completed or incomplete with a single click.
+
+- Redux State Management: Use Redux for consistent state management, handling task additions, updates, and deletions.
+
+- Notifications: Provides user feedback using react-toastify for alerts and messages.
+
+- Styling with Bootstrap: Utilizes Bootstrap for a clean and responsive design.
+
+</list>
+
+<h2>Preview:</h2>
+
+![](image.gif)
