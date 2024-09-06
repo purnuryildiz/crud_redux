@@ -1,4 +1,4 @@
-<h1>REDUX CRUD PROJECT</h1>
+<h1>Redux Crud Project</h1>
 
 <p>This project is a "To-Do List" application built with React and Redux. It allows users to manage their tasks by adding, updating, and deleting them while utilizing Redux for state management.</p>
 
